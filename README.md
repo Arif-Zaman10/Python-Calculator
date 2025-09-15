@@ -1,4 +1,4 @@
-# Simple Python Calculator
+## Simple Python Calculator
 
 This is a small command-line calculator written in Python. It lets you perform basic arithmetic operations (+, –, *, /) on two numbers and either continue calculating with the result, start a new calculation, or exit.
 
@@ -17,3 +17,4 @@ This is a small command-line calculator written in Python. It lets you perform b
 - The script uses float input so you can work with decimal numbers.  
 - Division by zero will raise an error — be careful when dividing.  
 - The calculator() function is currently defined inside the loop for simplicity, but it can be moved outside for efficiency.
+
